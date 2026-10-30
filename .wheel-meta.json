@@ -1,0 +1,22 @@
+{
+  "wheel_id": 536,
+  "structure": "umbrella",
+  "slug": "noosafencing-com-102",
+  "project": "fencing-contractors-noosa-beginner-guide-d21c6f49ab37ab02788254",
+  "parent_t1_ref": "noosafencing-com-150",
+  "node_role": "feeder",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/fencing-contractors-noosa-beginner-guide-d21c6f49ab37ab02788254/",
+  "tier": "T2",
+  "writeback_nonce": "129100122b5e432e",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/noosafencing-com-150/",
+      "anchor": "Fencing Contractors Noosa: How to Scope, Compare and Book",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
